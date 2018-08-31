@@ -1,0 +1,121 @@
+body {
+  background-color: honeydew !important;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
+
+.nav-bar {
+  padding: 8em;
+  background-image: url(leaf.jpg);
+  background-color: #203B58;
+}
+
+#search {
+  margin-left: 9em;
+  width: 50em;
+  height: 2em;
+}
+
+.nav-bar a {
+  color: white;
+}
+
+span.left {
+position: absolute;
+top: 2.5em;
+left: 3em;
+font-size: 20px;
+}
+span.left span {
+  margin-left: 1.5em;
+}
+
+span.right {
+  position: absolute;
+  margin-left: 22em;
+  font-size: 20px;
+  margin-top: 4em;
+}
+
+span.right span {
+  margin-left: 1.5em;
+}
+
+span.cart {
+  position: absolute;
+  top: 2.5em;
+  right: 3em;
+  font-size: 20px;
+  color: white;
+}
+span.cart span {
+  margin-left: 2em;
+}
+
+span#leaf {
+  position: absolute;
+  top: 2em;
+  left: 14em;
+  color: white;
+  font-size: 40px;
+}
+
+#imaginary_container{
+    margin-top:10%; 
+    margin-left: -15em
+    
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+  border-right:0; 
+  box-shadow:0 0 0; 
+  border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+  }
+
+  .footer {
+    margin-top: 25em;
+    background-image: url(leaf.jpg);
+    height: 10em;
+    padding-top: 2em;
+    }
+
+    .footer a {
+      color: white;
+    }
+
+  span.one {
+    font-size: 8px;
+    color: white;
+    position: absolute;
+    left: 5em;
+  }
+
+  span.two {
+    font-size: 8px;
+    color: white;
+    position: absolute;
+    left: 44em;
+  }
+
+  span.three {
+    font-size: 8px;
+    color: white;
+    position: absolute;
+    left: 87em;
+  }
+
+  span.four {
+    font-size: 8px;
+    color: white;
+    position: absolute;
+    left: 135em;
+  }
+  
